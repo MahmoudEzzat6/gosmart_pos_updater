@@ -1,0 +1,7 @@
+version: 1.0.0+1
+path: gosmart_pos-1.0.0+1-windows-setup.exe
+files:
+  - url: gosmart_pos-1.0.0+1-windows-setup.exe
+    sha512: Pvd0gjUiyMs+83n8mV5pPy+Jtwnio3jSGAFxya6hHpy9MgpGS9c6MDj2tGQOaWArb/F8fCgKNvtqRIhcoIz+Rw==
+    size: 8729871
+releaseDate: 2025-09-02T11:50:09.000Z
