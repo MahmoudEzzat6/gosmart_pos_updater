@@ -1,0 +1,81 @@
+{
+   "status": 1,
+   "message": "Draft order created and payload built",
+   "result": [
+     {
+       "id": "00035-000-0001",
+       "data": {
+         "name": "Order 00035-000-0001",
+         "amount_paid": 31.96,
+         "amount_total": 31.96,
+         "amount_tax": 0,
+         "amount_return": 0,
+         "lines": [
+           [
+             0,
+             0,
+             {
+               "uuid": "0b719743-651e-4526-80c8-8523515d70cc",
+               "skip_change": false,
+               "custom_attribute_value_ids": [],
+               "qty": 4,
+               "price_unit": 7.99,
+               "price_subtotal": 31.96,
+               "price_subtotal_incl": 31.96,
+               "discount": 0,
+               "product_id": 34,
+               "tax_ids": [
+                 [
+                   6,
+                   false,
+                   []
+                 ]
+               ],
+               "id": 1,
+               "pack_lot_ids": [],
+               "attribute_value_ids": [],
+               "full_product_name": "Fiery Royal Crispy Chicken",
+               "price_extra": 0,
+               "customer_note": "No pickles and Spicy",
+               "price_type": "original",
+               "note": ""
+             }
+           ]
+         ],
+         "statement_ids": [
+           [
+             0,
+             0,
+             {
+               "name": "2025-04-17 13:41:07",
+               "payment_method_id": 15,
+               "amount": 31.96,
+               "payment_status": "",
+               "ticket": "",
+               "card_type": "",
+               "cardholder_name": "",
+               "transaction_id": ""
+             }
+           ]
+         ],
+         "pos_session_id": 35,
+         "pricelist_id": false,
+         "partner_id": 7,
+         "user_id": 8,
+         "uid": "00035-000-0001",
+         "sequence_number": 1,
+         "date_order": "2025-04-17 13:41:07",
+         "fiscal_position_id": false,
+         "server_id": false,
+         "to_invoice": true,
+         "shipping_date": false,
+         "is_tipped": false,
+         "tip_amount": 0,
+         "access_token": "91c8cba4-4b0d-4b97-ab6a-fc99bb0602a8",
+         "last_order_preparation_change": "{}",
+         "ticket_code": "rnrmg"
+       },
+       "to_invoice": false
+     }
+   ]
+ }

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/mstf/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mstf/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Volumes/1T_External/projects/gosmart_pos/android/app/.cxx/RelWithDebInfo/234n5856/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mstf/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Volumes/1T_External/projects/gosmart_pos/android/app/.cxx/RelWithDebInfo/234n5856/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

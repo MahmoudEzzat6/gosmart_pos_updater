@@ -1,0 +1,1 @@
+/Volumes/1T_External/projects/gosmart_pos/build/app/intermediates/cxx/RelWithDebInfo/234n5856/obj/x86_64

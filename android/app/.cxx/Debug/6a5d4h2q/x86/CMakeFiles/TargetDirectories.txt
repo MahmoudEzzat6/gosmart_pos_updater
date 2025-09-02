@@ -1,0 +1,2 @@
+D:/projects/gosmart_pos/android/app/.cxx/Debug/6a5d4h2q/x86/CMakeFiles/edit_cache.dir
+D:/projects/gosmart_pos/android/app/.cxx/Debug/6a5d4h2q/x86/CMakeFiles/rebuild_cache.dir

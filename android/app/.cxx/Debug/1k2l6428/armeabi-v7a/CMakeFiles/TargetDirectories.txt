@@ -1,0 +1,2 @@
+C:/Users/Mona/Desktop/engineering/gosmart_pos/gosmart_pos/android/app/.cxx/Debug/1k2l6428/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Mona/Desktop/engineering/gosmart_pos/gosmart_pos/android/app/.cxx/Debug/1k2l6428/armeabi-v7a/CMakeFiles/rebuild_cache.dir

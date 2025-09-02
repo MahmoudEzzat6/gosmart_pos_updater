@@ -1,0 +1,2 @@
+/Volumes/1T_External/projects/gosmart_pos/android/app/.cxx/RelWithDebInfo/234n5856/x86/CMakeFiles/edit_cache.dir
+/Volumes/1T_External/projects/gosmart_pos/android/app/.cxx/RelWithDebInfo/234n5856/x86/CMakeFiles/rebuild_cache.dir
