@@ -5,12 +5,12 @@
     <link>https://mahmoudezzat6.github.io/gosmart_pos_updater/</link>
     <description>Stable channel</description>
     <item>
-      <title>GoSmart POS 1.0.1+1</title>
-      <pubDate>Wed, 03 Sep 2025 09:27:59 +0000</pubDate>
+      <title>GoSmart POS 1.0.1+2</title>
+      <pubDate>Wed, 03 Sep 2025 09:46:57 +0000</pubDate>
       <enclosure
         url="https://mahmoudezzat6.github.io/gosmart_pos_updater/gosmart_pos-1.0.1-1-windows-setup.exe"
-        sparkle:version="1.0.1.1"
-        sparkle:shortVersionString="1.0.1+1"
+        sparkle:version="1.0.1.2"
+        sparkle:shortVersionString="1.0.1+2"
         type="application/octet-stream"
         length="1925158" />
     </item>
